@@ -225,9 +225,3 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 - **Data**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 - **Code**: [MIT](LICENSE)
 
-## Related Resources
-
-- [Incompact3d](https://github.com/xcompact3d/Incompact3d) — The DNS solver used to generate this data
-- [PDEBench](https://github.com/pdebench/PDEBench) — Scientific ML benchmark suite
-- [AirfRANS](https://github.com/Extrality/airfrans_lib) — Airfoil RANS dataset
-- [CFDBench](https://github.com/luo-yining/CFDBench) — CFD benchmark for ML
